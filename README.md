@@ -1,2 +1,2 @@
 # first_project
-Just learning
+Тестовый репозиторий для работы с GitHub
